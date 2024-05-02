@@ -10,5 +10,5 @@ This problem set sought to continue to familiarise us with visualisin data and l
   - Replicate Keele, Cubbison, and White (2021)'s figure 2 matching every element exactly using their data. 
   
 - Question 2
- - Improve on the replication 
-  - Required to set vertical axis between 0 and 1, removing gridlines, add a shaded area for understanding clause use, facet instead of patching two separate plots, and improve visibility of lines
+  - Improve on the replication
+    - Required to set vertical axis between 0 and 1, removing gridlines, add a shaded area for understanding clause use, facet instead of patching two separate plots, and improve visibility of lines
